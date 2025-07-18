@@ -463,7 +463,7 @@ function App() {
                     <ul className="text-sm text-gray-700 space-y-2">
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-blue-500 rounded-full ml-2"></span>
-                        ۵۰۰ فالوور در شبکه‌های اجتماعی
+                        گسترش فعالیت و جذب مخاطب در فضای مجازی
                       </li>
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-blue-500 rounded-full ml-2"></span>
@@ -501,11 +501,11 @@ function App() {
                     <ul className="text-sm text-gray-700 space-y-2">
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-green-500 rounded-full ml-2"></span>
-                        گسترش به ۵ شهر جدید
+                        همکاری با شرکت های بزرگ در حوزه خدمات دیجیتال
                       </li>
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-green-500 rounded-full ml-2"></span>
-                        راه‌اندازی ۳ پروژه اجتماعی
+                        همکاری با سازمان قدس رضوی
                       </li>
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-green-500 rounded-full ml-2"></span>
@@ -521,15 +521,15 @@ function App() {
                     <ul className="text-sm text-gray-700 space-y-2">
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-purple-500 rounded-full ml-2"></span>
-                        ۲۰۰۰ عضو فعال
+                        اعزام دانشجویان علاقه مند به عنوان خادم یاد سلامت به حرم مطهر رضوی
                       </li>
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-purple-500 rounded-full ml-2"></span>
-                        ۱۰ رویداد موفق
+                        توسعه و گسترش سوپر اپلیکیشن و افزوده شدن به عنوان افزونه به سوپر اپلیکیشن های بزرگ مثل اسنپ و...
                       </li>
                       <li className="flex items-center">
                         <span className="w-2 h-2 bg-purple-500 rounded-full ml-2"></span>
-                        ۵۰ داوطلب آموزش‌دیده
+                        آموزش به داوطلبان و دانشجویان
                       </li>
                     </ul>
                   </div>
