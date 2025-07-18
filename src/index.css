@@ -53,6 +53,8 @@ video {
   height: 100%;
   object-fit: cover;
   object-position: center;
+  min-height: 100vh;
+  min-width: 100vw;
 }
 
 /* Ensure video plays on mobile */
@@ -71,6 +73,9 @@ video::-webkit-media-controls-panel {
     width: 100vw;
     object-fit: cover;
     object-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
   }
 }
 
@@ -80,6 +85,9 @@ video::-webkit-media-controls-panel {
     width: 100vw;
     object-fit: cover;
     object-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
   }
 }
 
